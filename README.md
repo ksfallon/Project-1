@@ -1,6 +1,6 @@
 # Weekly Meal Plan
 
-https://anthonyplanisek.github.io/Project-1/
+[Repository for Project 1](https://github.com/ksfallon/Project-1)
 
 Our goal was to create a website that provides users a way to get a personalized meal plan for the week based on the user's daily calorie goal, diet, and any food they would want to exclude. Also, they can save their favorite recipes on a separate page for later. 
 The website should suggest an easy to digest meal plan that would make it simple to get a curated list of recipes that fit the users preferences. 
